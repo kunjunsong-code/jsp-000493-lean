@@ -1,0 +1,25 @@
+{"log":
+ [{"message":
+   ".> LEAN_PATH=C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\.lake\\build\\lib\\lean c:\\Users\\Administrator\\.elan\\toolchains\\leanprover--lean4---v4.20.0\\bin\\lean.exe C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\Jsp.lean -R C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean -o C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\.lake\\build\\lib\\lean\\Jsp.olean -i C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\.lake\\build\\lib\\lean\\Jsp.ilean -c C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\.lake\\build\\ir\\Jsp.c --json",
+   "level": "trace"}],
+ "inputs":
+ [["Jsp:deps",
+   [["deps",
+     [["«jsp-000493-lean»/Jsp:extraDep",
+       [["@«jsp-000493-lean»:extraDep", "1723"]]],
+      ["import oleans",
+       [["Jsp.JSP000493:olean",
+         [["Jsp.JSP000493:deps", "12720339749678921893"],
+          ["C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\.lake\\build\\lib\\lean\\Jsp\\JSP000493.olean",
+           "15519271267626010077"]]]]]]],
+    ["libs",
+     [["import dynlibs", "1723"],
+      ["package external libraries", "1723"],
+      ["module dynlibs", "1723"],
+      ["module plugins", "1723"]]]]],
+  ["Lean 4.20.0, commit 77cfc4d1a4f6ef6651792b781eaa6676b4f3f060",
+   "16311077432335102250"],
+  ["Module.leanArgs: #[]", "1723"],
+  ["C:\\Users\\Administrator\\AppData\\Roaming\\TRAE SOLO CN\\ModularData\\ai-agent\\work-mode-projects\\6ac0a30cf1ecbd0a65a876b4\\jsp-000493-lean\\Jsp.lean",
+   "6034327702630968338"]],
+ "depHash": "9969189897333775755"}
